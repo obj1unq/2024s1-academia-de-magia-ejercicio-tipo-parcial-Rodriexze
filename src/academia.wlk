@@ -64,7 +64,7 @@ class Academia {
 	}
 	
 	method marcaCosaMenosUtil() {
-		return self.elMenosUtil().marca()
+		return self.elMenosUtil().marca() 
 	}
 	
 	method validarRemoverUtilesNoMagicas() {

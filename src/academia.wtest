@@ -70,6 +70,7 @@ describe "Academia de Magia" {
   		assert.throwsException({academia.tiene(varita)})// TODO: Guardar la varita en la academia (NO SE PUEDE!)
   	}
  
+ 
 
   	test "punto 1.5 no poder guardar una cosa por culpa de que no hay mueble" {
   		armario.cosasMax(1)// TODO: Cambiar la capacidad del armario a 1
